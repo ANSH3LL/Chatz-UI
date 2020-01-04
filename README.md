@@ -4,10 +4,11 @@ A simple, python, PyQt4 chat user interface with emoji support
 ![Chatz Screenshot](chatz.png)
 
 #### Dependencies
-##### Python 2.7
-[emoji](https://pypi.org/project/emoji/)
+1. Python 2.7
 
-[PyQt4](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4)
+2. [emoji](https://pypi.org/project/emoji/)
+
+3. [PyQt4](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4)
 
 #### Building
 It's as simple as running `main.py` with the dependencies installed.
