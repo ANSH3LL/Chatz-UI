@@ -5,9 +5,7 @@ A simple, python, PyQt4 chat user interface with emoji support
 
 #### Dependencies
 1. Python 2.7
-
 2. [emoji](https://pypi.org/project/emoji/)
-
 3. [PyQt4](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4)
 
 #### Building
