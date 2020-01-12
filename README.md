@@ -1,7 +1,7 @@
 # Chatz-UI
 A simple, python, PyQt4 chat user interface with emoji support
 
-![Chatz Screenshot](chatz.png)
+![Chatz Screenshot](chatz_sc.png)
 
 #### Dependencies
 1. Python 2.7
