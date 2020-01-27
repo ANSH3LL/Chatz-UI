@@ -3,15 +3,15 @@ A simple, python, PyQt4 chat user interface with emoji support
 
 ![Chatz Screenshot](chatz_sc.png)
 
-#### Dependencies
+# Dependencies
 1. Python 2.7
 2. [emoji](https://pypi.org/project/emoji/)
 3. [PyQt4](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4)
 
-#### Running
+# Running
 It's as simple as running `main.py` with the dependencies installed.
 
-#### Development
+# Development
 When connecting back-end code, make use of the methods (in `main.py` - `UIHandler` class):
 1. `refresh_users(users)` - to refresh the list of participants shown. It takes a `dict` argument with the following structure:
 
@@ -26,5 +26,5 @@ When connecting back-end code, make use of the methods (in `main.py` - `UIHandle
     
     `type_: 1 = message from server, 2 = message from group, 3 = direct message`
 
-#### Tips
+# Tips
 This is front-end code meant to be connected to the chat back-end. When doing this, make use of PyQt slots and signals to prevent freezing of the UI.
